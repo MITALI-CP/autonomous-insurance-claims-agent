@@ -2,6 +2,12 @@
 
 A lightweight Python application that processes First Notice of Loss (FNOL) documents, extracts structured claim information, validates mandatory fields, detects inconsistencies, and routes claims according to the business rules defined in the assessment brief.
 
+
+## 🎥 Demo Video
+
+[▶️ Watch the short demo video](https://drive.google.com/file/d/122LNqYu-DbiOQd95rfxkOiI1fK7v-u7n/view?usp=drive_link)
+
+
 ## 🎯 Problem Statement
 
 The application automates an initial insurance-claim processing workflow by:
