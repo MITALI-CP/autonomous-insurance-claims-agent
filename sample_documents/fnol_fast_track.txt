@@ -1,0 +1,22 @@
+FIRST NOTICE OF LOSS
+
+Policy Number: POL1001
+Policyholder Name: Rahul Sharma
+Effective Dates: 01/01/2026 - 31/12/2026
+
+Incident Date: 25/09/2026
+Incident Time: 10:30 AM
+Location: Yelahanka, Bangalore
+Description: The insured vehicle was damaged in a minor road accident at a junction.
+
+Claimant: Rahul Sharma
+Third Parties: None
+Contact Details: 9876543210
+
+Asset Type: Car
+Asset ID: KA01AB1234
+Estimated Damage: ₹15000
+
+Claim Type: Vehicle
+Attachments: Accident photos
+Initial Estimate: ₹15000

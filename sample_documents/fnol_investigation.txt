@@ -1,0 +1,22 @@
+FIRST NOTICE OF LOSS
+
+Policy Number: POL1003
+Policyholder Name: Arjun Kumar
+Effective Dates: 01/01/2026 - 31/12/2026
+
+Incident Date: 27/09/2026
+Incident Time: 21:00
+Location: Bangalore
+Description: The circumstances appear staged and the statements are inconsistent. Possible fraud is suspected.
+
+Claimant: Arjun Kumar
+Third Parties: Suresh Rao
+Contact Details: 9888888888
+
+Asset Type: Car
+Asset ID: KA05EF9012
+Estimated Damage: ₹12000
+
+Claim Type: Vehicle
+Attachments: Photos, police report
+Initial Estimate: ₹12000

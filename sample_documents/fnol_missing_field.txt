@@ -1,0 +1,22 @@
+FIRST NOTICE OF LOSS
+
+Policy Number: POL1002
+Policyholder Name: Priya Sharma
+Effective Dates: 01/01/2026 - 31/12/2026
+
+Incident Date: 26/09/2026
+Incident Time: 16:15
+Location: Hyderabad
+Description: The insured vehicle was damaged after a collision.
+
+Claimant:
+Third Parties: None
+Contact Details: 9876543211
+
+Asset Type: Car
+Asset ID: TS09CD5678
+Estimated Damage: ₹18000
+
+Claim Type: Vehicle
+Attachments: Accident photos
+Initial Estimate: ₹18000

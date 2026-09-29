@@ -1,0 +1,22 @@
+FIRST NOTICE OF LOSS
+
+Policy Number: POL1005
+Policyholder Name: Kavya Singh
+Effective Dates: 01/01/2026 - 31/12/2026
+
+Incident Date: 28/09/2026
+Incident Time: 12:00
+Location: Bangalore
+Description: The insured vehicle was damaged in a parking accident.
+
+Claimant: Kavya Singh
+Third Parties: None
+Contact Details: 9666666666
+
+Asset Type: Car
+Asset ID: KA03IJ7890
+Estimated Damage: ₹40000
+
+Claim Type: Vehicle
+Attachments: Damage photographs
+Initial Estimate: ₹20000

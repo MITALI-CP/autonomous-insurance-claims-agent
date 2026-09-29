@@ -1,0 +1,22 @@
+FIRST NOTICE OF LOSS
+
+Policy Number: POL1004
+Policyholder Name: Sneha Rao
+Effective Dates: 01/01/2026 - 31/12/2026
+
+Incident Date: 28/09/2026
+Incident Time: 08:45
+Location: Hyderabad
+Description: The insured was injured in a road accident and requires medical attention.
+
+Claimant: Sneha Rao
+Third Parties: Mohan Das
+Contact Details: 9777777777
+
+Asset Type: Car
+Asset ID: TS10GH3456
+Estimated Damage: ₹30000
+
+Claim Type: Injury
+Attachments: Medical report, accident photos
+Initial Estimate: ₹30000
